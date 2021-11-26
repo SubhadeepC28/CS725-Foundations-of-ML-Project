@@ -8,7 +8,7 @@ We provide a brief overview of the Zero-shot learning paradigm, a classification
  
 ### Contents:
 > - [Project Report]()
-> - [Priject Presentation]()
+> - [Project Presentation](https://github.com/SubhadeepC28/CS725-Foundations-of-ML-Project/blob/main/CS725_project.pptx)
 > - [Project Code]()
 
 ### Project Team:
